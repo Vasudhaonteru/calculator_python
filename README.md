@@ -22,3 +22,15 @@ The calculator should:
 - Perform the selected operation and display the result
 - Handle errors and exceptions for invalid inputs or operations
   
+OUTPUT of calculator_python
+
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4): 4
+Enter first number: 36
+Enter second number: 2
+36.0 / 2.0 = 18.0
+Let's do next calculation? (yes/no): 
